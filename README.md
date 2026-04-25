@@ -10,7 +10,7 @@
 <ul style="list-style-type:square;">
   <li>Email: rasyidnasrunalbilad31378@gmail.com</li>
 </ul>
-
+<hr>
 
 <!--
 **RasyidNA14/RasyidNA14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
