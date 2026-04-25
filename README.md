@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="center" fo>Rasyid Nashrun Al-Bilad</h1>
+<p align="center"> College Student • Web Developer • System Analyst </p>
+<hr>
+
+<h2>About</h2>
+
+<hr>
 
 <!--
 **RasyidNA14/RasyidNA14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
