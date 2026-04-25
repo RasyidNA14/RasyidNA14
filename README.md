@@ -3,7 +3,7 @@
 <hr>
 
 <h2>About</h2>
-
+<p>I am still a student, I am currently studying programming and system analysis on university</p>
 <hr>
 
 <!--
