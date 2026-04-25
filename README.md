@@ -6,6 +6,12 @@
 <p>I am still a student, I am currently studying programming and system analysis on university</p>
 <hr>
 
+<h2>Contact</h2>
+<ul style="list-style-type:square;">
+  <li>Email: rasyidnasrunalbilad31378@gmail.com</li>
+</ul>
+
+
 <!--
 **RasyidNA14/RasyidNA14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
