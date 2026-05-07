@@ -1,5 +1,5 @@
 <h1 align="center" fo>Rasyid Nashrun Al-Bilad</h1>
-<p align="center"> College Student • Web Developer • System Analyst </p>
+<p align="center"> College Student • System Analyst </p>
 <hr>
 
 <h2>About</h2>
